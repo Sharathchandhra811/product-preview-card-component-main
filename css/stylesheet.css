@@ -1,0 +1,78 @@
+body{
+    background-color: #F5E9CF;
+    padding-top: 230px;
+}
+img{
+    float: left;
+    width: 50%;
+    height: 400px;
+    border-radius: 3%;
+}
+.main{
+    margin: auto;
+    width: 520px; 
+    height: 400px;
+    border-radius: 3%;
+    background-color: whitesmoke;
+}
+p{
+    font-size: 13px;
+    font-weight: 100;
+   
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    color: grey;
+}
+h1{
+    font-weight: 300px;
+    font-family: 'Fraunces', serif;
+    margin: 0px;
+    text-align: left;
+}
+.dis{
+    position: relative;
+    margin: 0px;
+    top: 25px;
+    left: 25px;
+}
+.cost1{
+    font-family: 'Fraunces',sens-serif;
+    position: relative;
+    top: 35px;
+    left: 16px;
+    
+    color: green;
+}
+.cost{
+    
+    position: relative;
+    left: 14px;
+}
+.cost2{
+    font-size: 11px ;
+    position: relative;
+    left: 160px;
+}
+button{
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+    left: 25px;
+    top: 20px;
+    border-radius: 7px;
+    height: 45px;
+    width: 210px;
+    color: white;
+    background-color:darkgreen;
+}
+.br{
+    display: block;
+    margin-bottom: 0em;
+}
+#cart{
+    height: 20px;
+    position: relative;
+    left: 40px;
+    bottom: 2px;
+    color: black;
+    width: 20px;
+}
